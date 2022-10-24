@@ -1,0 +1,10 @@
+﻿  ejemplo2.cpp
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(12,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(13,20): error C2672: 'comparar': no se encontró una función sobrecargada que coincida
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(7,6): message : puede ser 'void comparar(tipoD,tipoD)'
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(13,2): message : 'void comparar(tipoD,tipoD)': el parámetro de plantilla 'tipoD' es ambiguo
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(7): message : vea la declaración de 'comparar'
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(13,20): message : puede ser 'float'
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(13,20): message : o       'int'
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(13,2): message : 'void comparar(tipoD,tipoD)': no se pudo deducir el argumento plantilla para 'tipoD' de 'float'
+E:\github programas\sis457\practica n1\ejemplo2\ejemplo2\ejemplo2.cpp(7): message : vea la declaración de 'comparar'
